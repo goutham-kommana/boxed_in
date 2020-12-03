@@ -1,0 +1,1 @@
+rosrun gazebo_ros spawn_model -file ~/catkin_ws/src/gazebo/models/my_robot/src/box.sdf -sdf -model $1 -y $3 -x $2 -z 5.0
